@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#samplewebsite files
+*.zip
+#folder files run for testing
+testing_files/
